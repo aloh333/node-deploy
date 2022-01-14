@@ -1,0 +1,5 @@
+$ npm start
+$ npm test
+$ npm run coverage
+$ npx artillery quick --count 100 -n 50 http://localhost:8001
+$ npx artillery run loadtest.json
